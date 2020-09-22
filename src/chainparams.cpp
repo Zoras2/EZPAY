@@ -208,11 +208,8 @@ public:
         pchMessageStart[2] = 0x44;
         pchMessageStart[3] = 0x4c;
         nDefaultPort = 11771;
-		vSeeds.push_back(CDNSSeedData("1", "156.96.46.60"));     //Team 
-		vSeeds.push_back(CDNSSeedData("2", "156.96.46.61"));     //Team 
-		vSeeds.push_back(CDNSSeedData("3", "156.96.46.62"));     //Team 
-		vSeeds.push_back(CDNSSeedData("4", "156.96.46.63"));     //Team 
-		
+	vSeeds.push_back(CDNSSeedData("1", "107.150.59.18"));     //Team 
+	vSeeds.push_back(CDNSSeedData("2", "45.77.153.222"));     //Team 2
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 80); 
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 63); 
@@ -220,7 +217,6 @@ public:
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x02)(0x2D)(0x25)(0x33).convert_to_container<std::vector<unsigned char> >();
         base58Prefixes[EXT_SECRET_KEY] = boost::assign::list_of(0x02)(0x21)(0x31)(0x2B).convert_to_container<std::vector<unsigned char> >();
         base58Prefixes[EXT_COIN_TYPE] = boost::assign::list_of(0x80)(0x00)(0x04)(0x61).convert_to_container<std::vector<unsigned char> >();
-
         convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
         strMasternodePoolDummyAddress = "JYw365YSYahSDbhvWLN8NYwP9RPxZPDStB";
