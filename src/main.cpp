@@ -1595,9 +1595,9 @@ int64_t GetBlockValue(int nHeight)
         return 850000 * COIN; // Premine (to cover old chain coin supply)
     } else if (nHeight > 0 && nHeight <= 200) { 
         return 1 * COIN;
-    } else if (nHeight > 200 && nHeight <= 350000) {
+    } else if (nHeight > 200 && nHeight <= 360000) {
         return 1 * COIN;
-    } else if (nHeight > 350000 && nHeight <= 400000) {
+    } else if (nHeight > 360000 && nHeight <= 400000) {
         return 5 * COIN;
     } else if (nHeight > 400000 && nHeight <= 500000) {
         return 7.5* COIN;
