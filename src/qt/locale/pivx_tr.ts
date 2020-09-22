@@ -1467,7 +1467,7 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY CORE</translation>
     </message>
     <message>
@@ -1475,8 +1475,8 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
-        <translation>Ezpayza Hakkında </translation>
+        <source>About EazyPayZa</source>
+        <translation>EazyPayZa Hakkında </translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1526,16 +1526,16 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Ezpayza'a hoşgeldiniz.</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>EazyPayZa'a hoşgeldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
-        <translation>Program ilk başlatıldığında Ezpayza'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
+        <translation>Program ilk başlatıldığında EazyPayZa'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Ezpayza, EZPAY blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecektir. Ayrıca cüzdanınız da bu dizinde saklanır.</translation>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>EazyPayZa, EZPAY blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecektir. Ayrıca cüzdanınız da bu dizinde saklanır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1554,8 +1554,8 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>TAMAM</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2341,7 +2341,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY CORE</translation>
     </message>
     <message>
@@ -2369,8 +2369,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>Uygulamayı sonlandır</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
-        <translation>Ezpayza istemci</translation>
+        <source>EazyPayZa client</source>
+        <translation>EazyPayZa istemci</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2777,7 +2777,7 @@ transaction history, making transactions untraceable </source>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY CORE</translation>
     </message>
     <message>
@@ -2797,8 +2797,8 @@ transaction history, making transactions untraceable </source>
         <translation>Masternode konfigürasyon dosyası okuma hatası: %1</translation>
     </message>
     <message>
-        <source>Ezpayza didn't yet exit safely...</source>
-        <translation>Ezpayza henüz güvenle kapanmadı..</translation>
+        <source>EazyPayZa didn't yet exit safely...</source>
+        <translation>EazyPayZa henüz güvenle kapanmadı..</translation>
     </message>
 </context>
 <context>
@@ -5341,8 +5341,8 @@ Emin misiniz?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
-        <translation>Ezpayza kapanıyor ...</translation>
+        <source>EazyPayZa is shutting down...</source>
+        <translation>EazyPayZa kapanıyor ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -5371,14 +5371,14 @@ Emin misiniz?
         <translation>Yükleniyor...</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY CORE</translation>
     </message>
     <message>
@@ -5394,8 +5394,8 @@ Emin misiniz?
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
-        <translation>The Ezpayza developers</translation>
+        <source>The EazyPayZa developers</source>
+        <translation>The EazyPayZa developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -6125,8 +6125,8 @@ Emin misiniz?
     </message>
     <message>
         <source>Welcome to
-Ezpayza Wallet</source>
-        <translation>Ezpayza Cüzdanı'na
+EazyPayZa Wallet</source>
+        <translation>EazyPayZa Cüzdanı'na
 Hoşgeldiniz</translation>
     </message>
     <message>
@@ -6224,8 +6224,8 @@ Hoşgeldiniz</translation>
         <translation>Hesaplanan akümülatör kontrol noktası, blok indeksiyle kaydedilen kontrol noktası değildir.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Ezpayza is probably already running.</source>
-        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. Ezpayza muhtemelen zaten çalışıyor.</translation>
+        <source>Cannot obtain a lock on data directory %s. EazyPayZa is probably already running.</source>
+        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. EazyPayZa muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -6424,8 +6424,8 @@ Hoşgeldiniz</translation>
         <translation>Ağ versiyon dizisi toplam uzunluğu(%i) maksimum uzunluğu aşıyor(%i). Yorumların büyüklüğünü veya sayısını azaltın.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Ezpayza is probably already running.</source>
-        <translation>Bu bilgisayarda %s 'e bağlanılamıyor. Ezpayza muhtemelen zaten çalışıyor.</translation>
+        <source>Unable to bind to %s on this computer. EazyPayZa is probably already running.</source>
+        <translation>Bu bilgisayarda %s 'e bağlanılamıyor. EazyPayZa muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -6452,12 +6452,12 @@ Hoşgeldiniz</translation>
         <translation>Uyarı: paytxfee değeri çok yüksek ayarlanmış! Bu para gönderirken ödeyeceğiniz transfer ücretidir.</translation>
     </message>
     <message>
-        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
-        <translation>Uyarı: Zaman farkı sebebiyle eşlerin bağlantısı koptı. Bilgisayarınızın tarih ve saat ayarlarının doğruluğunu kontrol edin! Saatiniz yanlış ise Ezpayza düzgün çalışmayacaktır. </translation>
+        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
+        <translation>Uyarı: Zaman farkı sebebiyle eşlerin bağlantısı koptı. Bilgisayarınızın tarih ve saat ayarlarının doğruluğunu kontrol edin! Saatiniz yanlış ise EazyPayZa düzgün çalışmayacaktır. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
-        <translation>Uyarı: Bilgisayarınızın tarih ve saat ayarlarının doğruluğunu kontrol edin! Saatiniz yanlış ise Ezpayza düzgün çalışmayacaktır. </translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
+        <translation>Uyarı: Bilgisayarınızın tarih ve saat ayarlarının doğruluğunu kontrol edin! Saatiniz yanlış ise EazyPayZa düzgün çalışmayacaktır. </translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -6596,8 +6596,8 @@ Hoşgeldiniz</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Ezpayza Developers</source>
-        <translation>Copyright (C) 2015-%i The Ezpayza Developers</translation>
+        <source>Copyright (C) 2015-%i The EazyPayZa Developers</source>
+        <translation>Copyright (C) 2015-%i The EazyPayZa Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -6684,8 +6684,8 @@ Hoşgeldiniz</translation>
         <translation>Wallet.dat yüklenirken hata oluştu: Cüzdan dosyası bozuk</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
-        <translation>Wallet.dat yüklenirken hata oluştu: Cüzdan daha yeni bir Ezpayza versiyonuna ihtiyaç duyuyor</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
+        <translation>Wallet.dat yüklenirken hata oluştu: Cüzdan daha yeni bir EazyPayZa versiyonuna ihtiyaç duyuyor</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -6776,8 +6776,8 @@ Hoşgeldiniz</translation>
         <translation>bilgi</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Ezpayza is shutting down.</source>
-        <translation>Sağlama kontrolü başlatımı başarısız. Ezpayza kapatılıyor.</translation>
+        <source>Initialization sanity check failed. EazyPayZa is shutting down.</source>
+        <translation>Sağlama kontrolü başlatımı başarısız. EazyPayZa kapatılıyor.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -7496,8 +7496,8 @@ Hoşgeldiniz</translation>
         <translation>Cüzdan %s bilgi dizini %s dışında bulunuyor</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
-        <translation>Cüzdanın tekrar yazılması gerekiyor: tamamlamak için Ezpayza uygulamasını tekrar başlatın.</translation>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
+        <translation>Cüzdanın tekrar yazılması gerekiyor: tamamlamak için EazyPayZa uygulamasını tekrar başlatın.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

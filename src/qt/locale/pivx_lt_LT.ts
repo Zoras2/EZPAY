@@ -740,16 +740,16 @@
         <translation>versija</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bitai)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
-        <translation>Apie Ezpayza</translation>
+        <source>About EazyPayZa</source>
+        <translation>Apie EazyPayZa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -795,24 +795,24 @@
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Sveiki atvykę į Ezpayza</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>Sveiki atvykę į EazyPayZa</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur Ezpayza saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur EazyPayZa saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Ezpayza atsisiųs ir saugos EZPAY blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>EazyPayZa atsisiųs ir saugos EZPAY blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
         <translation>Naudoti numatytąjį duomenų katalogą</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1145,8 +1145,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1173,8 +1173,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>Uždaryti programą</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
-        <translation>Ezpayza piniginė</translation>
+        <source>EazyPayZa client</source>
+        <translation>EazyPayZa piniginė</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1331,8 +1331,8 @@ Adresas: %4
         <translation>N/A</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
@@ -1886,15 +1886,15 @@ Adresas: %4
         <translation>Forma</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
@@ -2093,8 +2093,8 @@ Adresas: %4
         <translation>Klaida kraunant wallet.dat: Piniginė yra sugadinta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės Ezpayza versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės EazyPayZa versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -2261,8 +2261,8 @@ Adresas: %4
         <translation>Piniginė %s yra ne duomenų kataloge %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite Ezpayza iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite EazyPayZa iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

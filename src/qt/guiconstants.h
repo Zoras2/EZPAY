@@ -53,9 +53,9 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 35
 
-#define QAPP_ORG_NAME "Ezpayza"
+#define QAPP_ORG_NAME "EazyPayZa"
 #define QAPP_ORG_DOMAIN "eazypayzanetwork.io"
-#define QAPP_APP_NAME_DEFAULT "Ezpayza-Qt"
-#define QAPP_APP_NAME_TESTNET "Ezpayza-Qt-testnet"
+#define QAPP_APP_NAME_DEFAULT "EazyPayZa-Qt"
+#define QAPP_APP_NAME_TESTNET "EazyPayZa-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

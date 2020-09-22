@@ -560,7 +560,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY Ydin</translation>
     </message>
     <message>
@@ -579,11 +579,11 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
+        <source>Welcome to EazyPayZa.</source>
         <translation>Tervetuloa EZPAY Ytimeen.</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY Ydin</translation>
     </message>
     <message>
@@ -871,7 +871,7 @@
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY Ydin</translation>
     </message>
     <message>
@@ -899,7 +899,7 @@
         <translation>Lopeta ohjelma</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
+        <source>EazyPayZa client</source>
         <translation>EZPAY Ydin asiakasohjelma</translation>
     </message>
     <message>
@@ -965,7 +965,7 @@
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY Ydin</translation>
     </message>
     </context>
@@ -1582,7 +1582,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
+        <source>EazyPayZa is shutting down...</source>
         <translation>EZPAY core sammuu...</translation>
     </message>
     <message>
@@ -1604,14 +1604,14 @@
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY Ydin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY Ydin</translation>
     </message>
     <message>
@@ -1627,7 +1627,7 @@
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
+        <source>The EazyPayZa developers</source>
         <translation>EZPAY core kehittäjät</translation>
     </message>
     <message>
@@ -1887,7 +1887,7 @@
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version EZPAY Coresta</translation>
     </message>
     <message>

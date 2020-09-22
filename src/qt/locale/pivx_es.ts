@@ -1464,16 +1464,16 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>versión</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
-        <translation>Acerca de Ezpayza</translation>
+        <source>About EazyPayZa</source>
+        <translation>Acerca de EazyPayZa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1523,16 +1523,16 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>Bienvenido/a</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Bienvenido/a a Ezpayza.</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>Bienvenido/a a EazyPayZa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
-        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará Ezpayza sus datos.</translation>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
+        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará EazyPayZa sus datos.</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Ezpayza descargará y guardará una copia de la cadena de bloques EZPAY. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>EazyPayZa descargará y guardará una copia de la cadena de bloques EZPAY. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1551,8 +1551,8 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>OK</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2335,8 +2335,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2363,8 +2363,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>Cerrar aplicación</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
-        <translation>Cliente Ezpayza</translation>
+        <source>EazyPayZa client</source>
+        <translation>Cliente EazyPayZa</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2772,8 +2772,8 @@ transaction history, making transactions untraceable </source>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -2792,7 +2792,7 @@ transaction history, making transactions untraceable </source>
         <translation>Error al leer el archivo de configuración de masternode: %1</translation>
     </message>
     <message>
-        <source>Ezpayza didn't yet exit safely...</source>
+        <source>EazyPayZa didn't yet exit safely...</source>
         <translation>El núcleo EZPAY aún no ha salido de forma segura...</translation>
     </message>
 </context>
@@ -5312,7 +5312,7 @@ Are you sure?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
+        <source>EazyPayZa is shutting down...</source>
         <translation>El programa EZPAY se está cerrando...</translation>
     </message>
     <message>
@@ -5342,15 +5342,15 @@ Are you sure?
         <translation>Cargando....</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -5365,8 +5365,8 @@ Are you sure?
         <translation>Los desarrolladores de Dash Core</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
-        <translation>Los desarrolladores de Ezpayza</translation>
+        <source>The EazyPayZa developers</source>
+        <translation>Los desarrolladores de EazyPayZa</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -6060,9 +6060,9 @@ Are you sure?
     </message>
     <message>
         <source>Welcome to
-Ezpayza Wallet</source>
+EazyPayZa Wallet</source>
         <translation>Bienvenido a
-Ezpayza Wallet</translation>
+EazyPayZa Wallet</translation>
     </message>
     <message>
         <source>EZPAY is the world’s most innovative Proof of Stake blockchain based technology. Developed by a team of highly experienced developers and cryptographers.</source>
@@ -6159,8 +6159,8 @@ Ezpayza Wallet</translation>
         <translation>El punto de chequeo del acumulador que hemos calculado no coincide con lo guardado en el índice de bloques</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Ezpayza is probably already running.</source>
-        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. Ezpayza esta probablemente en ejecución.</translation>
+        <source>Cannot obtain a lock on data directory %s. EazyPayZa is probably already running.</source>
+        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. EazyPayZa esta probablemente en ejecución.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -6359,8 +6359,8 @@ Ezpayza Wallet</translation>
         <translation>La longitud total de la cadena de la versión de red (%i) excede la longitud máxima (%i). Reducir el número o tamaño de los uacomments.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Ezpayza is probably already running.</source>
-        <translation>Imposible conectar a %s en esta computadora. Es probable que Ezpayza ya este corriendo.</translation>
+        <source>Unable to bind to %s on this computer. EazyPayZa is probably already running.</source>
+        <translation>Imposible conectar a %s en esta computadora. Es probable que EazyPayZa ya este corriendo.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -6387,12 +6387,12 @@ Ezpayza Wallet</translation>
         <translation>Advertencia: -paytxfee esta muy alta! Esta es la comisión de transacción que pagarás si envías una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
-        <translation>Advertencia: Los pares están siendo desconectados debido a las diferencias horarias. Por favor, verifica que la fecha y la hora de tu computadora sean correctas! Si tu reloj está fuera de hora, Ezpayza no funcionará correctamente.</translation>
+        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
+        <translation>Advertencia: Los pares están siendo desconectados debido a las diferencias horarias. Por favor, verifica que la fecha y la hora de tu computadora sean correctas! Si tu reloj está fuera de hora, EazyPayZa no funcionará correctamente.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
-        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora Ezpayza no funcionará adecuadamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
+        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora EazyPayZa no funcionará adecuadamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -6531,8 +6531,8 @@ Ezpayza Wallet</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Ezpayza Developers</source>
-        <translation>Copyright (C) 2015-%i The Ezpayza Developers</translation>
+        <source>Copyright (C) 2015-%i The EazyPayZa Developers</source>
+        <translation>Copyright (C) 2015-%i The EazyPayZa Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -6619,8 +6619,8 @@ Ezpayza Wallet</translation>
         <translation>Error al cargar wallet.dat: Monedero dañado</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una nueva versión del Ezpayza</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una nueva versión del EazyPayZa</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -6711,8 +6711,8 @@ Ezpayza Wallet</translation>
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Ezpayza is shutting down.</source>
-        <translation>La prueba de salud de inicialización ha fallado. Ezpayza se cerrará.</translation>
+        <source>Initialization sanity check failed. EazyPayZa is shutting down.</source>
+        <translation>La prueba de salud de inicialización ha fallado. EazyPayZa se cerrará.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -7431,8 +7431,8 @@ Ezpayza Wallet</translation>
         <translation>El monedero %s esta ubicada fuera del directorio de datos %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
-        <translation>El Monedero necesita ser reescrito: reinicie Ezpayza para completar</translation>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
+        <translation>El Monedero necesita ser reescrito: reinicie EazyPayZa para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

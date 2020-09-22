@@ -987,8 +987,8 @@
         <translation>carteira %s reside fora do diretório %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
-        <translation>Carteira precisa ser reescrita: reinicie o Ezpayza para completar.</translation>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
+        <translation>Carteira precisa ser reescrita: reinicie o EazyPayZa para completar.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

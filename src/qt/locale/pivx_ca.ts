@@ -908,16 +908,16 @@ for staking</source>
         <translation>versió</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
-        <translation>Sobre Ezpayza</translation>
+        <source>About EazyPayZa</source>
+        <translation>Sobre EazyPayZa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -967,12 +967,12 @@ for staking</source>
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Benvingut a Ezpayza.</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>Benvingut a EazyPayZa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
-        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del Ezpayza.</translation>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
+        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del EazyPayZa.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -987,8 +987,8 @@ for staking</source>
         <translation>D'acord</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1199,8 +1199,8 @@ for staking</source>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1223,7 +1223,7 @@ for staking</source>
         <translation>Surt de l'aplicació</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
+        <source>EazyPayZa client</source>
         <translation>Client EZPAY core</translation>
     </message>
     <message>
@@ -1305,8 +1305,8 @@ for staking</source>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
@@ -1842,8 +1842,8 @@ for staking</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
-        <translation>Ezpayza s'està tancant...</translation>
+        <source>EazyPayZa is shutting down...</source>
+        <translation>EazyPayZa s'està tancant...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1864,15 +1864,15 @@ for staking</source>
         <translation>Formulari</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Version %1</source>

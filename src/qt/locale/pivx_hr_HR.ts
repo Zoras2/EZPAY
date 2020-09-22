@@ -752,16 +752,16 @@
         <translation>verzija</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
-        <translation>O Ezpayza</translation>
+        <source>About EazyPayZa</source>
+        <translation>O EazyPayZa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -807,24 +807,24 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Dobrodošli u Ezpayza.</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>Dobrodošli u EazyPayZa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
-        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će Ezpayza pohraniti svoje podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
+        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će EazyPayZa pohraniti svoje podatke.</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Ezpayza preuzima i pohranjuje kopiju EZPAY blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>EazyPayZa preuzima i pohranjuje kopiju EZPAY blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
         <translation>Upotrijebite zadani direktorij podataka</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1258,8 +1258,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1286,7 +1286,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>Napusti aplikaciju</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
+        <source>EazyPayZa client</source>
         <translation>PIVIX Core Klijent</translation>
     </message>
     <message>
@@ -1500,8 +1500,8 @@ Adresa: %4
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
@@ -2433,8 +2433,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
-        <translation>Ezpayza se zatvara ...</translation>
+        <source>EazyPayZa is shutting down...</source>
+        <translation>EazyPayZa se zatvara ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2455,15 +2455,15 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Obrazac</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2478,8 +2478,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core programeri</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
-        <translation>Ezpayza programeri</translation>
+        <source>The EazyPayZa developers</source>
+        <translation>EazyPayZa programeri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2966,8 +2966,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izračunata kontrolna točka akumulatora nije ono što se bilježi indeksom blokova</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Ezpayza is probably already running.</source>
-        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. Ezpayza vjerojatno već radi.</translation>
+        <source>Cannot obtain a lock on data directory %s. EazyPayZa is probably already running.</source>
+        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. EazyPayZa vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3138,8 +3138,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ovaj proizvod uključuje softver razvijen od strane OpenSSL projekta za uporabu u OpenSSL Toolkitu i kriptografskom softveru kojeg je napisao Eric Young i UPnP softver koji je napisao Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Ezpayza is probably already running.</source>
-        <translation>Nije moguće vezati se na %s na ovom računalu. Ezpayza vjerojatno već radi.</translation>
+        <source>Unable to bind to %s on this computer. EazyPayZa is probably already running.</source>
+        <translation>Nije moguće vezati se na %s na ovom računalu. EazyPayZa vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -3166,8 +3166,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Upozorenje: -paytxfee je vrlo visoka! To je transakcijska naknada koju ćete platiti ako šaljete transakciju.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
-        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, Ezpayza neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
+        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, EazyPayZa neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3294,8 +3294,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Autorska prava (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Ezpayza Developers</source>
-        <translation>Autorska prava (C) 2015-%i The Ezpayza Developers</translation>
+        <source>Copyright (C) 2015-%i The EazyPayZa Developers</source>
+        <translation>Autorska prava (C) 2015-%i The EazyPayZa Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3375,7 +3375,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Pogreška pri učitavanju wallet.dat: novčanik oštećen</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
         <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju EZPAY jezgre</translation>
     </message>
     <message>
@@ -3463,8 +3463,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Informacije</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Ezpayza is shutting down.</source>
-        <translation>Provjera ispravnosti inicijalizacije nije uspjela. Ezpayza se zatvara.</translation>
+        <source>Initialization sanity check failed. EazyPayZa is shutting down.</source>
+        <translation>Provjera ispravnosti inicijalizacije nije uspjela. EazyPayZa se zatvara.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -4126,8 +4126,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Novčanik %s nalazi se izvan direktorija podataka %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
-        <translation>Potrebno je prepisati novčanik: ponovo pokrenite Ezpayza</translation>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
+        <translation>Potrebno je prepisati novčanik: ponovo pokrenite EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet options:</source>

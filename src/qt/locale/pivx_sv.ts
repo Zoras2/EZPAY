@@ -1228,15 +1228,15 @@ Den startar automatiskt så snart plånboken har tillräckligt många bekräftel
         <translation>version</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
+        <source>About EazyPayZa</source>
         <translation>Om EZPAY Kärna</translation>
     </message>
     <message>
@@ -1287,15 +1287,15 @@ Den startar automatiskt så snart plånboken har tillräckligt många bekräftel
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Välkommen till Ezpayza.</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>Välkommen till EazyPayZa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
-        <translation>Eftersom detta är första gången programmet körs så kan du välja var Ezpayza ska spara sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var EazyPayZa ska spara sin data.</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>EZPAY Kärnan kommer ladda ner och spara en kopia av EZPAY block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
@@ -1315,8 +1315,8 @@ Den startar automatiskt så snart plånboken har tillräckligt många bekräftel
         <translation>ok</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2112,8 +2112,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2140,7 +2140,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>Avsluta applikationen</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
+        <source>EazyPayZa client</source>
         <translation>EZPAY kärn klient</translation>
     </message>
     <message>
@@ -2504,8 +2504,8 @@ transaktionshistorik, vilket gör transaktioner ospårbara</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -2516,8 +2516,8 @@ transaktionshistorik, vilket gör transaktioner ospårbara</translation>
         <translation>Fel vid inläsning av masternodens konfigurationsfil: %1</translation>
     </message>
     <message>
-        <source>Ezpayza didn't yet exit safely...</source>
-        <translation>Ezpayza avslutades ännu inte säkert...</translation>
+        <source>EazyPayZa didn't yet exit safely...</source>
+        <translation>EazyPayZa avslutades ännu inte säkert...</translation>
     </message>
 </context>
 <context>
@@ -3683,8 +3683,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
-        <translation>Ezpayza stängs ner...</translation>
+        <source>EazyPayZa is shutting down...</source>
+        <translation>EazyPayZa stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3705,15 +3705,15 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Formulär</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3728,8 +3728,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
-        <translation>Ezpayza utvecklarna</translation>
+        <source>The EazyPayZa developers</source>
+        <translation>EazyPayZa utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4276,7 +4276,7 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Ezpayza is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. EazyPayZa is probably already running.</source>
         <translation>Kan ej låsa in på data katalog %s. EZPAY Kärna körs förmodligen redan.</translation>
     </message>
     <message>
@@ -4452,8 +4452,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Totala längden av nätverks verisionens sträng (%i) överskrider maximala längd (%i). Minska mängden eller storleken av uakommentarer.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Ezpayza is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. Ezpayza körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. EazyPayZa is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. EazyPayZa körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -4480,8 +4480,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
-        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer Ezpayza inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer EazyPayZa inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4612,8 +4612,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Ezpayza Developers</source>
-        <translation>Copyright (C) 2015-%i The Ezpayza Developers</translation>
+        <source>Copyright (C) 2015-%i The EazyPayZa Developers</source>
+        <translation>Copyright (C) 2015-%i The EazyPayZa Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4692,7 +4692,7 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
         <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare EZPAY Kärna version</translation>
     </message>
     <message>
@@ -4784,7 +4784,7 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Ezpayza is shutting down.</source>
+        <source>Initialization sanity check failed. EazyPayZa is shutting down.</source>
         <translation>Initierings renlighetscheck misslyckades. EZPAY Kärna stängs ner.</translation>
     </message>
     <message>
@@ -5460,7 +5460,7 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Plånbok %s finns utanför data katalog %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
         <translation>Plånbok behöver skrivas om: starta om EZPAY Kärna för att göra klart</translation>
     </message>
     <message>

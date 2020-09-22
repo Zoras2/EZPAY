@@ -45,7 +45,7 @@ static bool AppInitRawTx(int argc, char* argv[])
 
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help")) {
         // First part of help message is specific to this utility
-        std::string strUsage = _("Ezpayza Core eazypayza-tx utility version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("EazyPayZa Core eazypayza-tx utility version") + " " + FormatFullVersion() + "\n\n" +
                                _("Usage:") + "\n" +
                                "  eazypayza-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded eazypayza transaction") + "\n" +
                                "  eazypayza-tx [options] -create [commands]   " + _("Create hex-encoded eazypayza transaction") + "\n" +

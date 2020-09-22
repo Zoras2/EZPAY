@@ -1828,7 +1828,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+0"/>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1839,7 +1839,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+6"/>
-        <source>About Ezpayza</source>
+        <source>About EazyPayZa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1902,17 +1902,17 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+90"/>
-        <source>Welcome to Ezpayza.</source>
+        <source>Welcome to EazyPayZa.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+35"/>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1937,7 +1937,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location filename="../intro.cpp" line="+101"/>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2898,7 +2898,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</source>
         <location filename="../pivx/pivxgui.cpp" line="+53"/>
         <location line="+294"/>
         <location line="+68"/>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2933,7 +2933,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</source>
     </message>
     <message>
         <location line="+38"/>
-        <source>Ezpayza client</source>
+        <source>EazyPayZa client</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3470,7 +3470,7 @@ transaction history, making transactions untraceable </source>
         <location line="+7"/>
         <location line="+13"/>
         <location line="+19"/>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3495,7 +3495,7 @@ transaction history, making transactions untraceable </source>
     </message>
     <message>
         <location line="+61"/>
-        <source>Ezpayza didn&apos;t yet exit safely...</source>
+        <source>EazyPayZa didn&apos;t yet exit safely...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6548,7 +6548,7 @@ Are you sure?
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+70"/>
-        <source>Ezpayza is shutting down...</source>
+        <source>EazyPayZa is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6584,7 +6584,7 @@ Are you sure?
     </message>
     <message>
         <location filename="../pivx/splash.cpp" line="+29"/>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6592,7 +6592,7 @@ Are you sure?
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+36"/>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6612,7 +6612,7 @@ Are you sure?
     </message>
     <message>
         <location line="+1"/>
-        <source>The Ezpayza developers</source>
+        <source>The EazyPayZa developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7567,7 +7567,7 @@ Are you sure?
     <message>
         <location line="+89"/>
         <source>Welcome to
-Ezpayza Wallet</source>
+EazyPayZa Wallet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7688,7 +7688,7 @@ Ezpayza Wallet</source>
     </message>
     <message>
         <location line="+2"/>
-        <source>Cannot obtain a lock on data directory %s. Ezpayza is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. EazyPayZa is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7938,7 +7938,7 @@ Ezpayza Wallet</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to bind to %s on this computer. Ezpayza is probably already running.</source>
+        <source>Unable to bind to %s on this computer. EazyPayZa is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7973,12 +7973,12 @@ Ezpayza Wallet</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Peers are being disconnected due time differences. Please check that your computer&apos;s date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
+        <source>Warning: Peers are being disconnected due time differences. Please check that your computer&apos;s date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8153,7 +8153,7 @@ Ezpayza Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The Ezpayza Developers</source>
+        <source>Copyright (C) 2015-%i The EazyPayZa Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8263,7 +8263,7 @@ Ezpayza Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8378,7 +8378,7 @@ Ezpayza Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. Ezpayza is shutting down.</source>
+        <source>Initialization sanity check failed. EazyPayZa is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9275,7 +9275,7 @@ Ezpayza Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

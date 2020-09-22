@@ -1117,7 +1117,7 @@ Den vil starte automatisk så snart at pungen har nok bekræftelser på nogen af
         <translation>version</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerne</translation>
     </message>
     <message>
@@ -1125,7 +1125,7 @@ Den vil starte automatisk så snart at pungen har nok bekræftelser på nogen af
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
+        <source>About EazyPayZa</source>
         <translation>om EZPAY kerne</translation>
     </message>
     <message>
@@ -1176,15 +1176,15 @@ Den vil starte automatisk så snart at pungen har nok bekræftelser på nogen af
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
+        <source>Welcome to EazyPayZa.</source>
         <translation>Velkommen til EZPAY kerne</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
         <translation>Da det er første gang programmet startes, kan De vælge hvor EZPAY kernen skal lagre sine data</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>EZPAY kernen vil nu hente og gemme en kopi af EZPAY blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
     </message>
     <message>
@@ -1200,7 +1200,7 @@ Den vil starte automatisk så snart at pungen har nok bekræftelser på nogen af
         <translation>Ok</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerne</translation>
     </message>
     <message>
@@ -1666,7 +1666,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerne</translation>
     </message>
     <message>
@@ -1694,7 +1694,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>Afslut applikationen</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
+        <source>EazyPayZa client</source>
         <translation>EZPAY kerneklient</translation>
     </message>
     <message>
@@ -1920,7 +1920,7 @@ Adresse: %4
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerne</translation>
     </message>
     </context>
@@ -3018,7 +3018,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
+        <source>EazyPayZa is shutting down...</source>
         <translation>EZPAY kernen lukker ned</translation>
     </message>
     <message>
@@ -3040,14 +3040,14 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Formular</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerne</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerne</translation>
     </message>
     <message>
@@ -3063,7 +3063,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
+        <source>The EazyPayZa developers</source>
         <translation>EZPAY "core" udviklerne</translation>
     </message>
     <message>
@@ -3591,7 +3591,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Beregnet akkumulator kontrolpunkt er ikke det, der er registreret af blok indeks</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Ezpayza is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. EazyPayZa is probably already running.</source>
         <translation>Kan ikke låse datamappen %s. EZPAY core kører sandsynligvis allerede.</translation>
     </message>
     <message>
@@ -3764,7 +3764,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Dette produkt anvender software udviklet i OpenSSL projektet til brug i OpenSSL værktøjssættet &lt;https://www.openssl.org/&gt; og kryptosoftware skrevet afEric Young og UPnP software skrevet af Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Ezpayza is probably already running.</source>
+        <source>Unable to bind to %s on this computer. EazyPayZa is probably already running.</source>
         <translation>Det var ikke muligt at forbinde %s på denne computer. EZPAY kører sandsynligvis allerede.</translation>
     </message>
     <message>
@@ -3792,7 +3792,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Advarsel! -paytxfee er sat meget højt. Det er dette gebyr De kommer til at betale for transaktionen, hvis De gennemfører. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
         <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil EZPAY core ikke fungere ordentligt.</translation>
     </message>
     <message>
@@ -3920,8 +3920,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Ezpayza Developers</source>
-        <translation>Copyright (C) 2015-%i The Ezpayza Developers</translation>
+        <source>Copyright (C) 2015-%i The EazyPayZa Developers</source>
+        <translation>Copyright (C) 2015-%i The EazyPayZa Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4000,7 +4000,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen er beskadiget</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af EZPAY core</translation>
     </message>
     <message>
@@ -4092,7 +4092,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Info:</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Ezpayza is shutting down.</source>
+        <source>Initialization sanity check failed. EazyPayZa is shutting down.</source>
         <translation>Initiering af sanitetskontrollen fejlede. EZPAY core lukker ned. </translation>
     </message>
     <message>
@@ -4756,7 +4756,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Tegnbogen %s befinder sig udenfor datamappen %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
         <translation>Tegnebogen måtte genskrives. Genstart EZPAY core for at gøre færdig</translation>
     </message>
     <message>

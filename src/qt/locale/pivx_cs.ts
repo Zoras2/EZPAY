@@ -696,12 +696,12 @@
         <translation>verze</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
-        <translation>O Ezpayza</translation>
+        <source>About EazyPayZa</source>
+        <translation>O EazyPayZa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -735,24 +735,24 @@
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Vítejte v Ezpayza.</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>Vítejte v EazyPayZa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude Ezpayza ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude EazyPayZa ukládat svá data.</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Ezpayza stáhne a uloží kopii EZPAY blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>EazyPayZa stáhne a uloží kopii EZPAY blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
         <translation>Použít defaultně nastavenou složku pro data</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -987,8 +987,8 @@
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1015,8 +1015,8 @@
         <translation>Zavřít aplikaci</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
-        <translation>Ezpayza klient</translation>
+        <source>EazyPayZa client</source>
+        <translation>EazyPayZa klient</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1117,8 +1117,8 @@ Adresa: %4
         <translation>N/A</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
@@ -1672,15 +1672,15 @@ Adresa: %4
         <translation>Od</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>

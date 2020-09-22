@@ -71,10 +71,10 @@ static bool AppInitRPC(int argc, char* argv[])
     //
     ParseParameters(argc, argv);
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help") || mapArgs.count("-version")) {
-        std::string strUsage = _("Ezpayza RPC client version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("EazyPayZa RPC client version") + " " + FormatFullVersion() + "\n";
         if (!mapArgs.count("-version")) {
             strUsage += "\n" + _("Usage:") + "\n" +
-                        "  eazypayza-cli [options] <command> [params]  " + _("Send command to Ezpayza") + "\n" +
+                        "  eazypayza-cli [options] <command> [params]  " + _("Send command to EazyPayZa") + "\n" +
                         "  eazypayza-cli [options] help                " + _("List commands") + "\n" +
                         "  eazypayza-cli [options] help <command>      " + _("Get help for a command") + "\n";
 

@@ -637,7 +637,7 @@ bool DHMSTableWidgetItem::operator<(QTableWidgetItem const& item) const
 #ifdef WIN32
 boost::filesystem::path static StartupShortcutPath()
 {
-    return GetSpecialFolderPath(CSIDL_STARTUP) / "Ezpayza.lnk";
+    return GetSpecialFolderPath(CSIDL_STARTUP) / "EazyPayZa.lnk";
 }
 
 bool GetStartOnSystemStartup()
@@ -755,7 +755,7 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         // Write a pivx.desktop file to the autostart directory:
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
-        optionFile << "Name=Ezpayza\n";
+        optionFile << "Name=EazyPayZa\n";
         optionFile << "Exec=" << pszExePath << " -min\n";
         optionFile << "Terminal=false\n";
         optionFile << "Hidden=false\n";

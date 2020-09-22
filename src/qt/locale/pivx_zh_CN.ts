@@ -1466,15 +1466,15 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>版本</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-位)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
+        <source>About EazyPayZa</source>
         <translation>关于PIVX Core</translation>
     </message>
     <message>
@@ -1525,15 +1525,15 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>欢迎</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>欢迎使用 Ezpayza</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>欢迎使用 EazyPayZa</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
         <translation>由于这是该程序第一次启动，您可以选择存储PIVX Core 数据的位置。</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>EZPAY Core将下载并存储PIVX区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
     </message>
     <message>
@@ -1553,8 +1553,8 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>OK</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2341,8 +2341,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2369,8 +2369,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>关闭应用</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
-        <translation>Ezpayza 客户端</translation>
+        <source>EazyPayZa client</source>
+        <translation>EazyPayZa 客户端</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2779,8 +2779,8 @@ transaction history, making transactions untraceable </source>
         <translation>%1 毫秒</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -2799,7 +2799,7 @@ transaction history, making transactions untraceable </source>
         <translation>读取主节点配置文件出错:%1</translation>
     </message>
     <message>
-        <source>Ezpayza didn't yet exit safely...</source>
+        <source>EazyPayZa didn't yet exit safely...</source>
         <translation>PIVX核心尚未安全退出……</translation>
     </message>
 </context>
@@ -5303,7 +5303,7 @@ Are you sure?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
+        <source>EazyPayZa is shutting down...</source>
         <translation>EZPAY 核心正在关闭...</translation>
     </message>
     <message>
@@ -5333,15 +5333,15 @@ Are you sure?
         <translation>正在下载…</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -5356,7 +5356,7 @@ Are you sure?
         <translation>达世币核心开发者</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
+        <source>The EazyPayZa developers</source>
         <translation>EZPAY 核心开发者</translation>
     </message>
     <message>
@@ -6087,7 +6087,7 @@ Are you sure?
     </message>
     <message>
         <source>Welcome to
-Ezpayza Wallet</source>
+EazyPayZa Wallet</source>
         <translation>欢迎
 PIVX核心钱包</translation>
     </message>
@@ -6186,7 +6186,7 @@ PIVX核心钱包</translation>
         <translation>计算累加器检查点并不是块索引记录的内容</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Ezpayza is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. EazyPayZa is probably already running.</source>
         <translation>无法获取数据目录%s锁。PIVX核心可能已经在运行了。</translation>
     </message>
     <message>
@@ -6386,7 +6386,7 @@ PIVX核心钱包</translation>
         <translation>网络版本字符串的总长度(%i)超过最大长度(%i)。减少任务的数量或大小。</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Ezpayza is probably already running.</source>
+        <source>Unable to bind to %s on this computer. EazyPayZa is probably already running.</source>
         <translation>无法绑定到此计算机上的%s。PIVX核心可能已经在运行了。</translation>
     </message>
     <message>
@@ -6414,11 +6414,11 @@ PIVX核心钱包</translation>
         <translation>警告:-支付tx费用设置的非常高!这是您发送交易时要支付的交易费。</translation>
     </message>
     <message>
-        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
+        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
         <translation>警告：由于时差，对等连接已断开。 请检查计算机的日期和时间是否正确！ 如果您的时钟错误，EZPAY Core将无法正常工作。</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
         <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，EZPAY Core将无法正常工作。</translation>
     </message>
     <message>
@@ -6558,7 +6558,7 @@ PIVX核心钱包</translation>
         <translation>版权所有(C) 2014-%i的达世核心开发者</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Ezpayza Developers</source>
+        <source>Copyright (C) 2015-%i The EazyPayZa Developers</source>
         <translation>版权所有(C) 2015-%i PIVX核心开发者</translation>
     </message>
     <message>
@@ -6646,7 +6646,7 @@ PIVX核心钱包</translation>
         <translation>加载钱包出错。dat:钱包损坏</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
         <translation>加载的钱包出错。dat: 钱包需要更新版本的PIVX核心</translation>
     </message>
     <message>
@@ -6738,7 +6738,7 @@ PIVX核心钱包</translation>
         <translation>信息</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Ezpayza is shutting down.</source>
+        <source>Initialization sanity check failed. EazyPayZa is shutting down.</source>
         <translation>初始化完整性检查失败。PIVX核心快要关闭了。</translation>
     </message>
     <message>
@@ -7458,7 +7458,7 @@ PIVX核心钱包</translation>
         <translation>钱包%s驻留在数据目录%s之外</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
         <translation>钱包需要重写:重新启动PIVX核心完成</translation>
     </message>
     <message>

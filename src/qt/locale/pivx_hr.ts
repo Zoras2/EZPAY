@@ -1010,12 +1010,12 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
-        <translation>O Ezpayza-u</translation>
+        <source>About EazyPayZa</source>
+        <translation>O EazyPayZa-u</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -1033,8 +1033,8 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Dobrodošli u Ezpayza.</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>Dobrodošli u EazyPayZa.</translation>
     </message>
     <message>
         <source>CANCEL</source>
@@ -1045,8 +1045,8 @@
         <translation>U redu</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1301,8 +1301,8 @@
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1329,8 +1329,8 @@
         <translation>Napusti aplikaciju</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
-        <translation>Ezpayza klijent</translation>
+        <source>EazyPayZa client</source>
+        <translation>EazyPayZa klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1427,8 +1427,8 @@
         <translation>N/A</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
@@ -2284,8 +2284,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
-        <translation>Ezpayza se gasi...</translation>
+        <source>EazyPayZa is shutting down...</source>
+        <translation>EazyPayZa se gasi...</translation>
     </message>
     </context>
 <context>
@@ -2310,15 +2310,15 @@
         <translation>Učitavanje...</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2333,8 +2333,8 @@
         <translation>Dash Core developeri</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
-        <translation>Ezpayza developeri</translation>
+        <source>The EazyPayZa developers</source>
+        <translation>EazyPayZa developeri</translation>
     </message>
     <message>
         <source>[testnet]</source>

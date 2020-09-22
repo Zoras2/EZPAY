@@ -416,15 +416,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error</source>
@@ -487,8 +487,8 @@
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -515,8 +515,8 @@
         <translation>Ukončiť aplikáciu</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
-        <translation>Ezpayza klient</translation>
+        <source>EazyPayZa client</source>
+        <translation>EazyPayZa klient</translation>
     </message>
     <message>
         <source>Error</source>
@@ -581,8 +581,8 @@ Adresa: %4
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
@@ -856,15 +856,15 @@ Adresa: %4
 <context>
     <name>Splash</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>

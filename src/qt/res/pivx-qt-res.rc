@@ -19,14 +19,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Ezpayza"
-            VALUE "FileDescription",    "Ezpayza Core (OSS GUI client for Ezpayza)"
+            VALUE "CompanyName",        "EazyPayZa"
+            VALUE "FileDescription",    "EazyPayZa Core (OSS GUI client for EazyPayZa)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "eazypayza-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "eazypayza-qt.exe"
-            VALUE "ProductName",        "Ezpayza Core"
+            VALUE "ProductName",        "EazyPayZa Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

@@ -724,7 +724,7 @@
         <translation>versio</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerno</translation>
     </message>
     <message>
@@ -732,7 +732,7 @@
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
+        <source>About EazyPayZa</source>
         <translation>Pri EZPAY Kerno</translation>
     </message>
     <message>
@@ -775,15 +775,15 @@
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
+        <source>Welcome to EazyPayZa.</source>
         <translation>Bonvenon al la EZPAY Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
         <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie EZPAY kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>EZPAY kerno elŝutos kaj konservi kopion de la EZPAY blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
@@ -791,7 +791,7 @@
         <translation>Uzi defaŭltan dosierujon</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerno</translation>
     </message>
     <message>
@@ -1029,7 +1029,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerno</translation>
     </message>
     <message>
@@ -1057,7 +1057,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>Eliri</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
+        <source>EazyPayZa client</source>
         <translation>EZPAY Kerno kliento</translation>
     </message>
     <message>
@@ -1151,7 +1151,7 @@ Adreso: %4
         <translation>NEKONATA</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerno</translation>
     </message>
     </context>
@@ -1632,7 +1632,7 @@ Adreso: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
+        <source>EazyPayZa is shutting down...</source>
         <translation>EZPAY kerno fermanta...</translation>
     </message>
     </context>
@@ -1650,14 +1650,14 @@ Adreso: %4
         <translation>Formo</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerno</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
+        <source>EazyPayZa</source>
         <translation>EZPAY kerno</translation>
     </message>
     <message>
@@ -1669,7 +1669,7 @@ Adreso: %4
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
+        <source>The EazyPayZa developers</source>
         <translation>La EZPAY kerno programistoj</translation>
     </message>
     </context>

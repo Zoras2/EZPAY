@@ -1217,16 +1217,16 @@ Ele será iniciado automaticamente assim que a carteira tiver confirmações suf
         <translation>versão</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Ezpayza</source>
-        <translation>Sobre o Ezpayza</translation>
+        <source>About EazyPayZa</source>
+        <translation>Sobre o EazyPayZa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1276,16 +1276,16 @@ Ele será iniciado automaticamente assim que a carteira tiver confirmações suf
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to Ezpayza.</source>
-        <translation>Bem-vindo ao Ezpayza.</translation>
+        <source>Welcome to EazyPayZa.</source>
+        <translation>Bem-vindo ao EazyPayZa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Ezpayza will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde Ezpayza vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where EazyPayZa will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde EazyPayZa vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>Ezpayza will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Ezpayza vai baixar e armazenar uma cópia da blockchain EZPAY. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>EazyPayZa will download and store a copy of the EZPAY block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>EazyPayZa vai baixar e armazenar uma cópia da blockchain EZPAY. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1304,8 +1304,8 @@ Ele será iniciado automaticamente assim que a carteira tiver confirmações suf
         <translation>Ok</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1970,8 +1970,8 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
 <context>
     <name>PIVXGUI</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1998,7 +1998,7 @@ https://www.transifex.com/pivx-project/pivx-project-translations</translation>
         <translation>Sair da aplicação</translation>
     </message>
     <message>
-        <source>Ezpayza client</source>
+        <source>EazyPayZa client</source>
         <translation>Cliente Core EZPAY</translation>
     </message>
     <message>
@@ -2167,8 +2167,8 @@ Endereço: %4
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     </context>
 <context>
@@ -3064,8 +3064,8 @@ Endereço: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Ezpayza is shutting down...</source>
-        <translation>Ezpayza está desligando...</translation>
+        <source>EazyPayZa is shutting down...</source>
+        <translation>EazyPayZa está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3086,15 +3086,15 @@ Endereço: %4
         <translation>Formulário</translation>
     </message>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Ezpayza</source>
-        <translation>Ezpayza</translation>
+        <source>EazyPayZa</source>
+        <translation>EazyPayZa</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3109,8 +3109,8 @@ Endereço: %4
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The Ezpayza developers</source>
-        <translation>Os desenvolvedores do Ezpayza</translation>
+        <source>The EazyPayZa developers</source>
+        <translation>Os desenvolvedores do EazyPayZa</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3629,7 +3629,7 @@ Endereço: %4
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Ezpayza will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong EazyPayZa will not work properly.</source>
         <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core EZPAY não vai funcionar corretamente.</translation>
     </message>
     <message>
@@ -3697,8 +3697,8 @@ Endereço: %4
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Ezpayza Developers</source>
-        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do Ezpayza</translation>
+        <source>Copyright (C) 2015-%i The EazyPayZa Developers</source>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do EazyPayZa</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3749,8 +3749,8 @@ Endereço: %4
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ezpayza</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da Ezpayza</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EazyPayZa</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da EazyPayZa</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4111,8 +4111,8 @@ Endereço: %4
         <translation>A carteira %s reside fora do diretório de dados %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Ezpayza to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o Ezpayza para completar</translation>
+        <source>Wallet needed to be rewritten: restart EazyPayZa to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o EazyPayZa para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>
