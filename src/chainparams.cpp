@@ -96,7 +96,14 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (0, uint256("0x00000661208f4530c1a9e0824cd5ff6d1ce4c66e2d5a244ba73d0f784d95b93e"));
+    (0, uint256("00000661208f4530c1a9e0824cd5ff6d1ce4c66e2d5a244ba73d0f784d95b93e"))
+	(360000, uint256("74b67bbfb91b982c32e524c7ac34bc0a98faf74b8641cd4fea10beb1e0e3004a"))
+	(360555, uint256("8b689f5fe48f546110a47413c1a6f5677cb3bf703055976ae8c496ad185bf8bd"))
+	(360600, uint256("181de694392031879df9c632bef24ab48706050915d2acb69a1726bbd979ca83"))
+	(361000, uint256("4bdf6a60c74db685970fb78b6215795f948f067626979682364910851c437ae2"))
+	(361100, uint256("0fe582d00b7b9a87b126141820147e4f8eefe1e93ccf93692e492feb12c13bd7"))
+	(361200, uint256("9a9473047c2a9aa8fe4e37471100d58f10289d99395911ea17c2dff583778dac"))
+	(361300, uint256("053898697249856acd562c6a8ced3747493030672144957e72a76be72ef8e0f5"));
 
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
@@ -208,8 +215,14 @@ public:
         pchMessageStart[2] = 0x44;
         pchMessageStart[3] = 0x4c;
         nDefaultPort = 11771;
-	vSeeds.push_back(CDNSSeedData("1", "107.150.59.18"));     //Team 
-	vSeeds.push_back(CDNSSeedData("2", "45.77.153.222"));     //Team 2
+	   vSeeds.push_back(CDNSSeedData("1", "107.150.59.18"));     //Team 
+	   vSeeds.push_back(CDNSSeedData("2", "136.244.65.132"));     //Team 
+	   vSeeds.push_back(CDNSSeedData("3", "78.141.203.14"));     //Team 
+	   vSeeds.push_back(CDNSSeedData("4", "78.141.200.125"));     //Team 
+	   vSeeds.push_back(CDNSSeedData("5", "78.141.243.147"));     //Team 
+	   vSeeds.push_back(CDNSSeedData("6", "192.248.165.236"));     //Team 
+
+
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 80); 
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 63); 

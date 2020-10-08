@@ -1595,9 +1595,9 @@ int64_t GetBlockValue(int nHeight)
         return 850000 * COIN; // Premine (to cover old chain coin supply)
     } else if (nHeight > 0 && nHeight <= 200) { 
         return 1 * COIN;
-    } else if (nHeight > 200 && nHeight <= 360000) {
+    } else if (nHeight > 200 && nHeight <= 360555) {
         return 1 * COIN;
-    } else if (nHeight > 360000 && nHeight <= 400000) {
+    } else if (nHeight > 360555 && nHeight <= 400000) {
         return 5 * COIN;
     } else if (nHeight > 400000 && nHeight <= 500000) {
         return 7.5* COIN;
@@ -1777,11 +1777,11 @@ void Misbehaving(NodeId pnode, int howmuch)
 
     state->nMisbehavior += howmuch;
     int banscore = GetArg("-banscore", 100);
-    //if (state->nMisbehavior >= banscore && state->nMisbehavior - howmuch < banscore) {
-        //LogPrintf("Misbehaving: %s (%d -> %d) BAN THRESHOLD EXCEEDED\n", state->name, state->nMisbehavior - howmuch, state->nMisbehavior);
-        //state->fShouldBan = true;
-    //} else
-        //LogPrintf("Misbehaving: %s (%d -> %d)\n", state->name, state->nMisbehavior - howmuch, state->nMisbehavior);
+    if (state->nMisbehavior >= banscore && state->nMisbehavior - howmuch < banscore) {
+        LogPrintf("Misbehaving: %s (%d -> %d) BAN THRESHOLD EXCEEDED\n", state->name, state->nMisbehavior - howmuch, state->nMisbehavior);
+        state->fShouldBan = true;
+    } else
+        LogPrintf("Misbehaving: %s (%d -> %d)\n", state->name, state->nMisbehavior - howmuch, state->nMisbehavior);
 }
 
 void static InvalidChainFound(CBlockIndex* pindexNew)
@@ -4382,6 +4382,24 @@ bool CVerifyDB::VerifyDB(CCoinsView* coinsview, int nCheckLevel, int nCheckDepth
             if (!ConnectBlock(block, state, pindex, coins, false))
                 return error("VerifyDB() : *** found unconnectable block at %d, hash=%s", pindex->nHeight, pindex->GetBlockHash().ToString());
         }
+    }
+	
+	// Validate & Enforce last checkpoint
+
+    CBlockIndex* pindex = chainActive.Tip();
+    int twinsLastCheckpoint = 0;
+
+    if (pindex)
+      twinsLastCheckpoint = Checkpoints::GetClosestCheckpoint(pindex->nHeight);
+
+    if (twinsLastCheckpoint) {
+      LogPrintf("Validating Last Checkpoint (current heigh=%s last checkpoint heigh=%s)...", pindex->nHeight, twinsLastCheckpoint);
+      if (!Checkpoints::CheckBlock(twinsLastCheckpoint,chainActive[twinsLastCheckpoint]->GetBlockHash())) {
+        LogPrintf("FAILED !!!\n");
+        return error("VerifyDB() : *** Checkpoint validation at block %s FAILED", twinsLastCheckpoint);
+      } else {
+        LogPrintf("Passed\n");
+      }
     }
 
     LogPrintf("No coin database inconsistencies in last %i blocks (%i transactions)\n", chainHeight - pindexState->nHeight, nGoodTransactions);
